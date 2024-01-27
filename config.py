@@ -11,7 +11,7 @@ API_ID = os.environ.get("API_ID", "23681812")
 
 API_HASH = os.environ.get("API_HASH", "3152d0cda0a21787db0c924f522374b7")
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "6858377496:AAEHVaWfhp-2LC11YEm4oSGes5Fw7iiNJJI") 
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "6858377496:AAEtdW7o5RblbXBLWMTzUijtP6FWcvcesWc") 
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "Dramafilez") 
 
