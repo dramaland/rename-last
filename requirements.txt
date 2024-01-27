@@ -3,7 +3,9 @@ Pillow
 humanize
 hachoir
 motor
-pyrogram==2
+pyrogram==2.0.35
+pyrogram==2.0.106
+pyrogram
 TgCrypto
 dnspython
 aiohttp
