@@ -21,7 +21,7 @@ FORCE_SUB = os.environ.get("FORCE_SUB", "Dramafilez")
 
 DB_NAME = os.environ.get("DB_NAME", "depak8684")     
 
-DB_URL = os.environ.get("DB_URL", "mongodb+srv://ashubot:ashubot@cluster0.q3x8qbk.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL", "postgres://koyeb-adm:pF59OwdJlCyS@ep-restless-violet-a25c02t4.eu-central-1.pg.koyeb.app/koyebdb")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
